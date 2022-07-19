@@ -1,0 +1,16 @@
+   46  cd ..
+   47  head 829-0.txt
+   48  less 829-0.txt
+   49  head *.txt
+   50  head *.pdf
+   51  mv 829-0.txt gulliver.txt
+   52  ls
+   53  cp gulliver.txt gulliver-backup.txt
+   54  ls
+   55  mv firstdir backup
+   56  ls
+   57  mv gulliver-backup.txt backup
+   58  cd backup
+   59  ls
+   60  cd ..
+   61  ls backup
